@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 18.04.2025
+## Register Number: 212223230039
+## Name: S Deepika 
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -10,17 +10,28 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 ## Problem Creater's Organization
 Ministry of Defence
 
-## Idea
-
-
-## Proposed Solution / Architecture Diagram
-
-
 ## Use Cases
 
+![image](https://github.com/user-attachments/assets/c41c06b1-ff59-4da5-b234-2fa4a398107b)
 
 ## Technology Stack
+Frontend: React.js / Angular
 
+Backend: Node.js / Django
+
+Database: PostgreSQL / MongoDB
+
+AI/NLP: TensorFlow / OpenAI API
+
+Cloud Hosting: AWS / Azure
 
 ## Dependencies
+react-router-dom → For navigation in React
 
+axios → For handling API requests
+
+socket.io-client → For real-time communication
+
+tailwindcss → For styling the UI
+
+chart.js → For interview performance graphs
